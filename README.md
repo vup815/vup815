@@ -10,6 +10,6 @@ I'm a passionate software engineer dedicated to optimizing workflows and enhanci
 
 📚 I'm also an avid learner and document my journey in my [learning journal](https://github.com/vup815/learning_journal), where I focus on algorithms and data structures among other topics.
 
-To summarize, I'm a developer deeply invested in refining my processes and tools to become as efficient as possible. Feel free to explore my repositories and reach out if you share similar interests or have any questions!
+💡 Recently, I started exploring design patterns and documenting my learnings in my [design patterns repository](https://github.com/vup815/design_patterns), aiming to understand and apply proven solutions to software design challenges.
 
-✨ Let's connect and build something amazing together!
+To summarize, I'm a developer deeply invested in refining my processes and tools to become as efficient as possible. Feel free to explore my repositories and reach out if you share similar interests or have any questions!
